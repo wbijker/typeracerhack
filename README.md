@@ -1,7 +1,7 @@
 # TypeRacer Hack
 Play around project to spoof a fake typer on http://play.typeracer.com
 
-You will see it type character-by-character. Just set jou desired WPM at the top and paste into your browsers developers console.
+You will see it type character-by-character. Just set jou desired WPM at the top and paste into your browser's developer console.
 
 Only tested in Chrome.
 
